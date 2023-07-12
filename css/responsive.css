@@ -1,0 +1,224 @@
+@media (max-width: 1024px) {
+  
+   
+    .site-nav {
+       
+        position: relative;
+        top: 0;
+        z-index: 9;
+        width: 100%;
+    }
+    .slider1 .title {
+        color: black;
+        font-size: 45px;
+        font-family: 'Open Sans';
+        font-weight: 600;
+    }
+
+    .slider1 .text-header {
+        color: #555555;
+        font-size: 17px;
+        font-family: 'Open Sans';
+        font-weight: 400;
+    }
+
+    .filter {
+        position: relative;
+        top: 26px;
+    }
+    .container-serch .search {
+        position: relative;
+        top: 0px;
+        right: 0;
+        bottom: 0;
+        left: 61px;
+        width: 65px;
+        height: 65px;
+        background: #24AB70;
+        border-radius: 50%;
+        transition: all 1s;
+        z-index: 4;
+        box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.4);
+    }
+    .container-serch .search {
+       
+        left: -7px;
+    }
+    .slider {
+        margin-top: 1rem;
+    }
+    .section-titre {
+        color: black;
+        font-size: 27px;
+        font-family: 'Open Sans';
+        font-weight: 600;
+    }
+    .text-section {
+        color: #555555;
+        font-size: 14px;
+        font-family: 'Open Sans';
+        font-weight: 400;
+    }
+    span.text-center.ml-5 {
+
+        margin-left: 0.25rem !important;
+
+    }
+
+    .provide .card-title {
+        color: #222222;
+        font-size: 12px;
+        font-family: 'Open Sans';
+        font-weight: 500;
+    }
+
+    .map button {
+        margin-left: 184px;
+    }
+}
+
+
+@media (max-width: 992px) {
+    /* .site-nav {
+        background-color: black;
+    } */
+
+    .slider1 .title {
+        color: black;
+        font-size: 45px;
+        font-family: 'Open Sans';
+        font-weight: 600;
+    }
+
+    .slider1 .text-header {
+        color: #555555;
+        font-size: 17px;
+        font-family: 'Open Sans';
+        font-weight: 400;
+    }
+
+    .filter {
+        position: relative;
+        top: 26px;
+    }
+}
+
+
+@media (max-width:767px){
+    .burger {
+     
+        right: 12px;
+    }
+    .img-header{
+        height: 100%;
+    }
+    .slider1 .title {
+        color: black;
+        font-size: 21px;
+        font-family: 'Open Sans';
+        font-weight: 600;
+        line-height: 30px;
+    }
+
+    .slider1 .text-header {
+        color: #555555;
+        font-size: 12px;
+        font-family: 'Open Sans';
+        font-weight: 400;
+        margin-top: 1rem !important;
+    }
+
+    .video-text {
+        color: #222222;
+        font-size: 12px;
+        font-family: 'Open Sans';
+        font-weight: 600;
+       
+    }
+    .filter {
+        
+        padding: 23px;
+       
+        position: relative;
+    }
+    input.form-control{
+        margin-bottom: 10px;
+        border: 1px solid #ced4da;
+
+    }
+    .icon-filter {
+        position: absolute;
+        top: 22px;
+        padding-left: 8px;
+    }
+    .filter button.btn-info {
+        width: 100%;
+    }
+
+    .provide .bloc1{
+        margin-top: 1.5rem!important;
+    }
+
+    .provide .card-body {
+        padding: 0;
+    }
+    .provide .card-title {
+        color: #222222;
+        font-size: 11px;
+        font-family: 'Open Sans';
+        font-weight: 500;
+    }
+
+    .history .pt-5{
+        padding-top: 1rem!important;
+    }
+    .history a.btn-info {
+        margin-left: 138px;
+        margin-bottom: 10px;
+    }
+.para-footer{
+    margin-top: 0.5rem!important;
+}
+
+    p {
+        color: #555555;
+        font-size: 13px;
+        font-family: 'Open Sans';
+        font-weight: 400;
+        margin-bottom: 0;
+      
+    }
+
+    .title-footer {
+        color: #222222;
+        font-size: 14px;
+        font-family: 'Open Sans';
+        font-weight: 600;
+    }
+
+    .footer a {
+        color: #222222;
+        font-size: 14px;
+        font-family: 'Open Sans';
+        font-weight: 400;
+        cursor: pointer;
+    }
+
+    .map .contact {
+        background-color: #fff;
+        border-radius: 20px;
+        position: relative;
+        top: -248px;
+    }
+
+    .map input {
+        border-radius: 30px;
+        background: #FAFAFA;
+        width: 80%;
+    }
+
+    .map button {
+        margin-left: 262px;
+        margin-top: -3.5rem !important;
+    }
+}
